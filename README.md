@@ -1,4 +1,4 @@
-Hello! I am CoffeeBrewer64, a C, C++, C#, GTK3, Glade and Unity developer.
+Hello! I am CoffeeBrewer64, a C, C++, C# and Unity developer.
 I mainly spend my time working on games and game engines. Most of the software I make is designed to run on low end hardware, supporting 1Ghz CPUs devices with 4GB of RAM.
 
 Laptop specs:
