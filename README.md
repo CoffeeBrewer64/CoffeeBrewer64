@@ -1,7 +1,11 @@
-Hello! I am CoffeeBrewer64, a C, C++, C# and Unity developer.
-I mainly spend my time working on games and game engines. Most of the software I make is designed to run on low end hardware, supporting 1Ghz CPUs devices with 4GB of RAM.
+# Yo
 
-Laptop specs:
+Hello! I am CoffeeBrewer64, a C, C++, C# and Unity developer.
+I mainly spend my time working on emulators and emulation-related software.
+
+# Laptop specs
+
+
 - OS : Kali Linux (Debian 11/Bullseye based)
 - CPU : 2.2GHZ Intel i386
 - RAM : 8GB DDR3 RAM
@@ -12,8 +16,14 @@ Laptop specs:
 - Partitions : None
 - Future upgrades : None
 
-Languages:
+# Languages
 - English as primary
 - Spanish on a beginner level
 - French on a beginner to intermediate level
 - Swedish on a below beginner level
+- Japanese on a beginner level
+
+
+# ReFamos // ReX
+
+I created ReFamos (a.k.a ReX) as an organisation which focuses on ReFamos, ReNitro and ReWii, which are all remakes of my previous projects or existing hardware. ReFamos is the CPU emulator supporting multiple ARM chips.
