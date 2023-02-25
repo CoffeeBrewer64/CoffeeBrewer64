@@ -23,6 +23,9 @@ I mainly spend my time working on emulators and emulation-related software.
 - Swedish on a below beginner level
 - Japanese on a beginner level
 
+# VitaSoap
+
+Imagine an emulator... drunk. That is VitaSoap. Inspired by Vita3K (but not using Vita3K's source code), VitaSoap is an attempt to fill in the gap in the PS Vita emulation market. Do **not** expect it to work.I haven't even linked SDL yet.
 
 # ReFamos // ReX
 
