@@ -7,7 +7,7 @@ I mainly spend my time working on emulators and emulation-related software.
 
 
 - OS : Kali Linux (Debian 11/Bullseye based)
-- CPU : 2.2GHZ Intel i386
+- CPU : 2.2GHZ Intel
 - RAM : 8GB DDR3 RAM
 - HDD : 500GB HDD
 - SSD : None
@@ -25,7 +25,7 @@ I mainly spend my time working on emulators and emulation-related software.
 
 # VitaSoap
 
-Imagine an emulator... drunk. That is VitaSoap. Inspired by Vita3K (but not using Vita3K's source code), VitaSoap is an attempt to fill in the gap in the PS Vita emulation market. Do **not** expect it to work.
+Imagine an emulator that never works. That is VitaSoap. Inspired by Vita3K (but not using Vita3K's source code), VitaSoap is an attempt to fill in the gap in the PS Vita emulation "industry". Do **not** expect it to work.
 
 # ReFamos // ReX
 
