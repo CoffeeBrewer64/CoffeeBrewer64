@@ -6,27 +6,28 @@ I mainly spend my time working on emulators and emulation-related software.
 # Laptop specs
 
 
-- OS : Kali Linux (Debian 11/Bullseye based)
-- CPU : 2.2GHZ Intel
+- OS : Arch Linux
+- DE : GNOME
+- CPU : 2.7GHZ Intel
 - RAM : 8GB DDR3 RAM
 - HDD : 500GB HDD
 - SSD : None
-- External SSDs or HDDs : 1TB External SSD
+- External storage : 1TB External SSD
 - GPU : Internal GPU (iGPU), 512mb VRAM
 - Partitions : None
 - Future upgrades : None
 
 # Languages
-- English as primary
+- English as primary (first language)
 - Spanish on a beginner level
 - French on a beginner to intermediate level
-- Swedish on a below beginner level
-- Japanese on a beginner level
 
-# VitaSoap
+# Projects
 
-Imagine an emulator that never works. That is VitaSoap. Inspired by Vita3K (but not using Vita3K's source code), VitaSoap is an attempt to fill in the gap in the PS Vita emulation "industry". Do **not** expect it to work.
+### VitaSoap
 
-# ReFamos // ReX
+Vita3K is currently the only working and public PlayStation Vita emulator. VitaSoap is a PS Vita **and** PS4 emulator (with Cubical) with the aim of being better than Vita3K.
 
-I created ReFamos (a.k.a ReX) as an organisation which focuses on ReFamos, ReNitro and ReWii, which are all remakes of my previous projects or existing hardware. ReFamos is the CPU emulator supporting multiple ARM chips.
+### ReFamos
+
+ReFamos is a CPU emulator and interpreter with hundreds of different instructions to choose from. It is still private
