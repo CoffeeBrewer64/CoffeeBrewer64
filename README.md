@@ -5,9 +5,7 @@ I mainly spend my time working on emulators and emulation-related software.
 
 # Laptop specs
 
-
-- OS : Arch Linux
-- DE : GNOME
+- OS : Windows 10 (Tiny 10)
 - CPU : 2.7GHZ Intel
 - RAM : 8GB DDR3 RAM
 - HDD : 500GB HDD
